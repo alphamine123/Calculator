@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Currency">
+        <item>US-Dollar</item>
+        <item>Europe-Euro</item>
+        <item>Canada-Dollar</item>
+        <item>Morocco-Dirham</item>
+        <item>UK-Pound</item>
+    </string-array>
+    <string-array name="Length">
+        <item>Nanometres</item>
+        <item>Microns</item>
+        <item>Millimeters</item>
+        <item>Centimeters</item>
+        <item>Meter</item>
+        <item>Inches</item>
+        <item>Miles</item>
+    </string-array>
+</resources>

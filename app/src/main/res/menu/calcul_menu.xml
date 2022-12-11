@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="GestionCalcul">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/standard"
+                    android:title="@string/standard"
+                    android:icon="@drawable/ic_baseline_calculate_24"></item>
+                <item
+                    android:id="@+id/currency"
+                    android:title="@string/currency"
+                    android:icon="@drawable/ic_baseline_currency_exchange_24"></item>
+                <item android:id="@+id/length"
+                    android:title="length"
+                    android:icon="@drawable/ic_baseline_architecture_24">s</item>
+
+            </group>
+        </menu>
+    </item>
+</menu>
